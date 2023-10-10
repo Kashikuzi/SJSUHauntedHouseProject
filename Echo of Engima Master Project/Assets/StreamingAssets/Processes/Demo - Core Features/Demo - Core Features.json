@@ -5801,9 +5801,7 @@
             "ChapterMetadata": {
               "$id": "1053",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
-              "LastSelectedStep": {
-                "$ref": "4"
-              },
+              "LastSelectedStep": null,
               "EntryNodePosition": {
                 "x": 0.0,
                 "y": 0.0
@@ -5834,9 +5832,7 @@
             "ChapterMetadata": {
               "$id": "1057",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
-              "LastSelectedStep": {
-                "$ref": "130"
-              },
+              "LastSelectedStep": null,
               "EntryNodePosition": {
                 "x": 0.0,
                 "y": 0.0
@@ -5879,9 +5875,7 @@
             "ChapterMetadata": {
               "$id": "1061",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
-              "LastSelectedStep": {
-                "$ref": "586"
-              },
+              "LastSelectedStep": null,
               "EntryNodePosition": {
                 "x": 0.0,
                 "y": 0.0
@@ -5936,9 +5930,7 @@
             "ChapterMetadata": {
               "$id": "1065",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
-              "LastSelectedStep": {
-                "$ref": "758"
-              },
+              "LastSelectedStep": null,
               "EntryNodePosition": {
                 "x": -35.2,
                 "y": 0.0
@@ -5978,9 +5970,7 @@
             "ChapterMetadata": {
               "$id": "1069",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
-              "LastSelectedStep": {
-                "$ref": "819"
-              },
+              "LastSelectedStep": null,
               "EntryNodePosition": {
                 "x": 0.0,
                 "y": 0.0
@@ -6017,9 +6007,7 @@
             "ChapterMetadata": {
               "$id": "1073",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
-              "LastSelectedStep": {
-                "$ref": "934"
-              },
+              "LastSelectedStep": null,
               "EntryNodePosition": {
                 "x": -21.6,
                 "y": 0.0
@@ -6056,9 +6044,7 @@
             "ChapterMetadata": {
               "$id": "1077",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
-              "LastSelectedStep": {
-                "$ref": "1025"
-              },
+              "LastSelectedStep": null,
               "EntryNodePosition": {
                 "x": 0.0,
                 "y": 0.0
